@@ -1,4 +1,4 @@
-# Nginx Log Analyzer
+#  Linux Nginx Log Analyzer
 
 A beginner Bash project that reads an Nginx access log and generates a request report.
 
