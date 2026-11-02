@@ -138,3 +138,4 @@ Bash scripts, variables, conditions, pipes, input redirection, log analysis, awk
 Hamza Abbas  
 BSIT Student — Virtual University of Pakistan  
 Building practical Linux, Cloud and DevOps skills.
+Git revision practice
